@@ -15,11 +15,11 @@ Funcionalidades:
 
 Cadastro de Socio
 
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/desktop/cadastro%20de%20socio.png?raw=true" alt="David Cabral" width="250" height="250">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/desktop/cadastro%20de%20socio.png?raw=true" alt="David Cabral" width="250" height="250">
 
 Imprimir Carteirinha
 
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/desktop/carteirinha.png?raw=true" alt="David Cabral" width="450" height="250">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/desktop/carteirinha.png?raw=true" alt="David Cabral" width="450" height="250">
 
 
 **Mobile**
@@ -32,8 +32,8 @@ Funcionalidades:
 
 login
 
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/mobile/login.jpg?raw=true" alt="David Cabral" width="150" height="350">
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/mobile/main.jpg?raw=true" alt="David Cabral" width="150" height="350">
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/mobile/list.jpg?raw=true" alt="David Cabral" width="150" height="350">
-<img align = 'center' src="https://github.com/DavidCabral/TransporteApp/blob/main/images/mobile/controle.jpg?raw=true" alt="David Cabral" width="150" height="350">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/mobile/login.jpg?raw=true" alt="David Cabral" width="150" height="350">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/mobile/main.jpg?raw=true" alt="David Cabral" width="150" height="350">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/mobile/list.jpg?raw=true" alt="David Cabral" width="150" height="350">
+<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/main/images/mobile/controle.jpg?raw=true" alt="David Cabral" width="150" height="350">
 
