@@ -30,10 +30,10 @@ Funcionalidades:
 * verifica se o associado já embarcou
 
 
-login
-
-<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/login.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
-<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/main.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
-<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/list.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
-<img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/controle.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
+<p float="left">
+  <img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/login.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
+  <img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/main.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
+  <img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/list.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
+  <img align = 'center' src="https://github.com/rpcajr/TransporteApp/blob/master/images/mobile/controle.jpg?raw=true" alt="Phillipe Couto" width="150" height="350">
+</p>  
 
